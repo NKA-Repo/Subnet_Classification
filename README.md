@@ -1,6 +1,6 @@
 # Pemisah IP Berdasarkan Subnet 172.16.0.0/12
 
-Aplikasi GUI Python sederhana untuk memisahkan alamat IP berdasarkan apakah mereka berada dalam subnet `172.16.0.0/12` (subnet privat kelas B) atau di luar subnet tersebut. Aplikasi ini berguna untuk keperluan administrasi jaringan atau validasi daftar IP.
+Aplikasi GUI Python sederhana untuk memisahkan alamat IP berdasarkan apakah mereka berada dalam subnet `172.16.0.0/12` atau di luar subnet tersebut. Aplikasi ini berguna untuk keperluan administrasi jaringan atau validasi daftar IP.
 
 ## 🖥️ Fitur
 
